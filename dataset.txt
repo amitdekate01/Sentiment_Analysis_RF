@@ -1,2 +1,2 @@
 Download the dataset from [Kaggle IMDB Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
-and place the `IMDB Dataset.csv` file in a `data/` directory.
+
