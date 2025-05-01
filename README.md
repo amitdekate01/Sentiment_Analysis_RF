@@ -7,7 +7,7 @@ This project performs binary sentiment classification (positive/negative) using:
 - Random Forest Classifier
 
 ## Dataset
-IMDB Movie Review Dataset (10,000 rows used)
+IMDB Movie Review Dataset (25,000 rows used)
 
 ## How to Run
 1. Clone the repo
